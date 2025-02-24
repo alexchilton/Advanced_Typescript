@@ -1,1 +1,6 @@
 # Advanced_Typescript
+
+
+Challenges with solutions for advanced typescript course...
+
+Planning to add proper jest unit tests...
